@@ -5,6 +5,9 @@ I have a bachelor's degree in theology and a degree in physical education.
 I am from Paraná and currently live in Bahia.
 🌱 I’m currently learning php, html, css, javaScript, PostgreSQL, .NET+C#, Python, scrum, Javascript ES6, angular;
 👯 I’m looking to collaborate on useful applications and tools to assist in the daily life of companies and professionals!
+contact:
+cell: (71) 99188-9015 -
+email: willer002@gmail.com
 <!--
 **raizerwm/raizerwm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

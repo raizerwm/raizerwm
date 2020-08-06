@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+I'm Willer Raizer Menezes.
+I am a student of Systems Analysis and Development Technology.
+I have a bachelor's degree in theology and a degree in physical education.
+I am from Paraná and currently live in Bahia.
+🌱 I’m currently learning php, html, css, javaScript, PostgreSQL, .NET+C#, Python, scrum, Javascript ES6, angular;
+👯 I’m looking to collaborate on useful applications and tools to assist in the daily life of companies and professionals!
 <!--
 **raizerwm/raizerwm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
